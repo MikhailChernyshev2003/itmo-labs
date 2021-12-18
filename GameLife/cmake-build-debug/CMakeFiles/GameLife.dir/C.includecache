@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pavelchernyshev/Desktop/GameLife/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/stat.h
+-
+
