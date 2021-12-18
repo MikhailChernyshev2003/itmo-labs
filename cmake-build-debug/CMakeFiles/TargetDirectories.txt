@@ -1,3 +1,0 @@
-/Users/pavelchernyshev/Desktop/uint1024_t/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/pavelchernyshev/Desktop/uint1024_t/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/pavelchernyshev/Desktop/uint1024_t/cmake-build-debug/CMakeFiles/WordCount.dir
